@@ -1,6 +1,8 @@
-# yerros.github.io
+# Day 1 - Rangkuman
 
-**bold text**
+## VSCODE
+Pertama berkenalan dengan editor yang akan sering digunakan yaitu VsCode, 
+pengenalan fitur-fitur di VsCode dan cara membuat shortcut "Console.log()" agar membuat pekerjaan lebih cepat
 
 [![Follow @yerros](https://img.shields.io/twitter/follow/yerros?label=Follow+@yerros&style=flat)](https://twitter.com/intent/follow?screen_name=yerros)
 
