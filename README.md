@@ -2,6 +2,11 @@
 
 **bold text**
 
+[![Follow @yerros](https://img.shields.io/twitter/follow/yerros?label=Follow+@yerros&style=flat)](https://twitter.com/intent/follow?screen_name=yerros)
+
+
+
+Aku *sedang* belajar **menulis** dengan [markdown](https://en.wikipedia.org/wiki/Markdown).
 *bold text*
 1. satu
 2. dua

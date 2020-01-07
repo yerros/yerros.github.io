@@ -1,0 +1,25 @@
+Day 1
+
+
+Rangkuman
+.......................................................
+
+Pertama berkenalan dengan editor yang akan sering digunakan yaitu VsCode, 
+pengenalan fitur-fitur di VScode dan cara membuat shortcut "Console.log()" agar membuat pekerjaan lebih cepat
+
+Lalu pembahasan tentang terminal, cara menggunakan terminal dan menginstall ohMyZSH dan mencoba mengintall theme ohMyZSH
+
+
+Pengenalan dan cara menggunakan GIT, 
+perintah dasar yang sering digunakan 
+
+git clone - untuk clone/copy repository
+git push - untuk mengupload repository ke github
+git branch - untuk membuat branch baru
+git checkout - untuk berpindah branch
+git reset - untuk mereset repository ke awal (pertamakali clone) 
+
+
+membuat simple website untuk memperkenalkan diri lalu di upload ke github
+
+dan yang terakhir tentang MARKDOWN
